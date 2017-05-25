@@ -79,7 +79,7 @@ header .navbar {
     margin-top: 13px;
     padding: 0 0 0 15px;
 }
-.navbar-default .navbar-brand{color: #61B331;margin-top: 23px;}
+.navbar-default .navbar-brand{color: #61B331;margin-top: 5px;}
 
 header .navbar-collapse  ul.navbar-nav {
     float: right;
@@ -121,7 +121,7 @@ header .navbar-nav > li.active {
     color: #fff;
 }
 header .navbar {
-    min-height: 70px;
+    min-height: 90px;
     padding: 0;
 }
 
@@ -227,7 +227,7 @@ header ul.nav li {
 }
 
 header ul.nav li a {	
-	font-size:12px;
+	font-size:24px;
 	border:none;
 	font-weight:700;
 	text-transform:uppercase;
@@ -799,8 +799,8 @@ ul.Gallery-categ li a{
 	color: #DE3B69;
 }
 ul.Gallery-categ li.active{
-border: 1px solid #DE3B69;
-background-color: #FFFFFF;
+border: 1px solid #DE3B69;
+background-color: #FFFFFF;
 }
 ul.Gallery-categ li.active a:hover, ul.Gallery-categ li a:hover,ul.Gallery-categ li a:focus,ul.Gallery-categ li a:active {
 	text-decoration:none;
