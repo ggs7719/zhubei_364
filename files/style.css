@@ -321,7 +321,7 @@ logo bar
 *************************************************/
 
 #logo-bar {
-	padding:25px 30px 15px 20px;
+	padding:10px 10px 10px 10px;
 }
 #logo-bar h1 {
 	font-size:2.7em;
@@ -1415,31 +1415,31 @@ footer
 	background:url(images/footer-bottom.png) no-repeat 0px 0px;
 }
 #footer {
-	color:#CCC;
+	color:#FFF;
 	font-size:.75em;
-	background:url(./transparent-bg.png) repeat 0px 0px;
+	background:#82a63b repeat 0px 0px;
 }
 #footer .inner {	
 	padding:20px 30px 10px 30px;	
 }
 #footer .left {
 	float:left;
-	width:135px;
+	width:210px;
 }
 #footer .left2 {
 	float:left;
-	width:135px;
+	width:210px;
 	margin-left:15px;
 }
 #footer .middle {
 	float:left;
 	margin-left:15px;
-	width:135px;
+	width:210px;
 }
 #footer .middle2 {
 	float:left;
 	margin-left:15px;
-	width:135px;
+	width:210px;
 }
 #footer .right {
 	float:left;
@@ -1456,7 +1456,7 @@ footer
 	margin:0px;
 	padding:2px 0px 15px 0px;
 	font-size:1.5em;
-	border-bottom:1px solid #181818;
+	border-bottom:1px solid #888;
 	text-transform:uppercase;
         font-family: '微軟正黑體', Sans-serif;
         font-weight:bolder; 
@@ -1473,8 +1473,9 @@ footer
 }
 #footer .copyright {
 	padding:10px 30px 8px 30px;
-	background:#202122;
-	border-top:1px solid #000;
+	/*background:rgb(130,166,59);*/
+	background:#f2c5a3;
+	/*border-top:1px solid #000;*/
 	color:#888;
 	font-size:.9em;
 }

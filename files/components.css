@@ -347,11 +347,11 @@ main menu
 #main-menu {
 	float:left;
 	width:956px;
-	margin:0px auto;
+	margin:10px auto;
 	background:url(./mainmenu-bg.png) repeat-x 0px 0px;
 }
 #main-menu .container {
-	width:907px;
+	width:950px;
 	float:left;
 }
 #main-menu #random-article {
@@ -384,8 +384,8 @@ main menu
 	letter-spacing:1px;
 	color:#394253;
 	font-weight: bold;
-	border-right:1px solid #DCDCDC;
-	border-left:1px solid #F7F7F7;
+	border-top:1px solid #636363;
+	border-bottom:1px solid #636363;
 }
 
 /*#main-menu ul li a {
@@ -422,7 +422,7 @@ body:not(:-moz-handler-blocked) #main-menu ul li a { padding-bottom:15px; }
 /*dropdowns*/
 #main-menu ul li:hover a, 
 #main-menu ul li.over a {
-	color:#FFF;
+	color:#850000;
 	background:url(../images/mainmenu-highlight.png) repeat-x 0px 0px;
 	padding-bottom:17px; 
 }
@@ -851,15 +851,15 @@ a.nivo-prevNav {
     width:745px;
     height:440px;
 	margin:15px 0px 20px 20px;
-	border:1px solid #3e3e3e;
+	border:1px solid #536b24;
 }
 #slider3{ 
 	width:475px; 
 	padding-right:250px; 
 	position:relative; 
-	border:10px solid #1F1F1F; 
+	border:10px solid #536b24; 
 	height:420px; 
-	background:#1F1F1F;
+	background:#536b24;
 	overflow:hidden;
 }
 #slider3 ul.ui-tabs-nav{ 
@@ -868,7 +868,7 @@ a.nivo-prevNav {
 	list-style:none; 
 	padding:0; margin:0; 
 	width:270px; 
-	background:#1F1F1F;
+	/*background:#1F1F1F;*/
 }
 #slider3 ul.ui-tabs-nav li{ 
 	padding:0px 0px 0px 13px;  
@@ -889,19 +889,19 @@ a.nivo-prevNav {
 #slider3 li.ui-tabs-nav-item a{ 
 	display:block; 
 	height:74px; 
-	color:#ccc;  background:#333539; 
+	color:#ccc;  background:#82a63b; 
 	line-height:16px;
 	padding:5px 5px 5px 0px; 	
 }
 #slider3 li.ui-tabs-nav-item a:hover{ 
-	background:#46494F; 
+	background:#8cb43d; 
 	color:#FFF;
 }
 #slider3 li.ui-tabs-selected{ 
 	background:url(../images/selected-item.png) top left no-repeat;  
 }
 #slider3 ul.ui-tabs-nav li.ui-tabs-selected a{ 
-	background:#46494F; 
+	background:#8cb43d; 
 	color:#FFF;
 }
 #slider3 .ui-tabs-panel{ 
@@ -912,7 +912,7 @@ a.nivo-prevNav {
 	position:absolute;
 	top:0px;
 	left:0px;	
-	background: url(./transparent-bg.png); 
+	background: #536b24; 
 	display:inline-block;
 	color:#FFF;
 	font-size:.8em;
@@ -923,7 +923,7 @@ a.nivo-prevNav {
 	position:absolute; 
 	top:265px; left:0; 
 	height:165px; 
-	background: url(./transparent-bg.png); 
+	background: #536b24; 
 	padding:0px 5px 5px 5px;
 }
 #slider3 .info h2 { 
@@ -1604,7 +1604,7 @@ the latest panel
 	padding:10px 10px 0px 10px;
 	height:26px;
 	/*background:url(../images/footer-bg.png) repeat 0px 0px;*/
-	background:#333;
+	background:#536b24;
 }
 #latest .header .arrow {
 	float:left;

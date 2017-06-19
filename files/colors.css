@@ -1,7 +1,7 @@
 /*************************************************
 page backgrounds
 *************************************************/
-.light-lithium {background:#D1D9DD}
+.light-lithium {background:#FFFFDE}
 .light-xenon {background:#CDD0DA}
 .light-titanium {background:#DADADA}
 .light-plutonium {background:#EEECDD}
@@ -247,7 +247,7 @@ colors
 .iridium ul.tabnav li a:active, 
 .iridium ul.tabnav li.ui-tabs-selected a {background:url(../images/sidebar-header-bg-iridium.png) repeat-x 0px 0px;}
 /*other*/
-.iridium #latest .category .inner a {background:#43795C;border-left:1px solid #254434;border-right:1px solid #519370;}
+.iridium #latest .category .inner a {background:#008cd7;border-left:1px solid #254434;border-right:1px solid #519370;}
 .iridium #latest .category .inner a:hover {background:#33AD68;}
 .iridium form.subscribe input.btn {background:#31A160;}
 .iridium .feed-vertical .article a.category,
@@ -264,8 +264,8 @@ colors
 .iridium #latest .catpanel .category:hover {background:#38BC71;}
 .iridium #page-content .cat-bar .right-wrapper {background:#134528;}
 /*links*/
-.iridium a { color:#33AD68; }
-.iridium a:hover { color:#50BD80; }
+.iridium a { color:#FFF; }
+.iridium a:hover { color:#000; }
 
 /*magnesium*/
 /*top menu*/
