@@ -348,7 +348,7 @@ main menu
 	float:left;
 	width:956px;
 	margin:10px auto;
-	/*background:url(./mainmenu-bg.png) repeat-x 0px 0px;*/
+	background:#f2c5a3 repeat-x 0px 0px;
 }
 #main-menu .container {
 	width:950px;
