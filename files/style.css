@@ -55,10 +55,12 @@ body { font-family:Arial, Helvetica, sans-serif; background:#D1D9DD; width:100%;
 .group:after { visibility: hidden; display: block; font-size: 0; content: " "; clear: both; height: 0; }
 * html .group, *:first-child+html .group { zoom: 1; } /* First selector = IE6, Second Selector = IE 7 */
 
-h1, h2, h3 { font-weight:bolder; margin: 0 0 10px 0; font-family: '微軟正黑體', Sans-serif; }
+h1, h2, h3,h4 { font-weight:bolder; margin: 0 0 10px 0; font-family: '微軟正黑體', Sans-serif; }
 h1 { }
-h2 { }
-h3 { }
+h2 { color:#394253;}
+.gentesque { color:#FFF;}
+h3 { color:#394253;}
+h4 { color:#394253;}
 
 p { margin: 0 0 10px 0; }
 a { text-decoration:none; }
