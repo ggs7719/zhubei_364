@@ -1,0 +1,30 @@
+[
+  {
+    "name":"Tom",
+    "lastname":"Chen",
+    "report":{
+      "0":{
+        "subject":"Math",
+        "score":80
+      },
+      "1":{
+      "subject":"English",
+      "score":90
+      }
+    }
+  },
+  {
+    "name":"Amy",
+    "lastname":"Lin",
+    "report":[
+      {
+        "subject":"Math",
+        "score":86
+      },
+      {
+        "subject":"English",
+        "score":88
+      }
+    ]
+  }
+]
